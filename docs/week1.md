@@ -43,7 +43,7 @@
 4. MS-SQL
 5. SQLite
 
-[참고] (https://wch18735.github.io/database/RDBMS/)
+[참고](https://wch18735.github.io/database/RDBMS/)
 
 <hr/>
 
@@ -73,5 +73,7 @@
 ### 출처
 
 RDBMS: https://jwprogramming.tistory.com/52
+
 RDBMS 종류: https://wch18735.github.io/database/RDBMS/
+
 NoSQL: https://code-lab1.tistory.com/53
